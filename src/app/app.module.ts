@@ -9,7 +9,7 @@ import { HeaderComponent } from "./components/header/header.component";
 import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
-    declarations: [AppComponent, AboutComponent, ContactComponent, HomeComponent, HeaderComponent, FooterComponent],
+    declarations: [AppComponent, HeaderComponent, FooterComponent, HomeComponent, AboutComponent, ContactComponent ],
     imports: [BrowserModule, AppRoutingModule],
     providers: [],
     bootstrap: [AppComponent],
