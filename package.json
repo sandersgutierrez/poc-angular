@@ -1,6 +1,7 @@
 {
     "name": "angularapp",
     "version": "0.0.0",
+    "description": "",
     "scripts": {
         "ng": "ng",
         "start": "ng serve",

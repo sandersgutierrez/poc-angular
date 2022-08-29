@@ -4,11 +4,4 @@ import { Component } from '@angular/core'
     selector: 'app-root',
     templateUrl: './app.component.html',
 })
-export class AppComponent {
-    public title: string | undefined;
-    public counter = 10
-
-    handleAdd() {
-        this.counter++
-    }
-}
+export class AppComponent {}
