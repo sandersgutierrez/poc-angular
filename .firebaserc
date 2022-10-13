@@ -1,0 +1,14 @@
+{
+    "targets": {
+        "first-demo-angular-app": {
+            "hosting": {
+                "angularapp": [
+                    "first-demo-angular-app"
+                ]
+            }
+        }
+    },
+    "projects": {
+        "default": "first-demo-angular-app"
+    }
+}
